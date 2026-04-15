@@ -7,15 +7,36 @@
  /_/    \_\|_| |_| |_||_|/_/\_\|_||_| \__,_|
 </pre>
 
-# Hello there  👋
+<h1>Hi 👋, I'm Mohamed</h1>
+<h3>A Passionate Full Stack Developer 🚀</h3>
 
-<h3 align="center">A passionate full stack developer</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amixiid&label=Profile%20views&color=0e75b6&style=flat" alt="amixiid" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amixiid" alt="amixiid" /></a> </p>
+<!-- 👀 PROFILE VIEWS + TROPHIES -->
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=amixiid&label=Profile%20Views&color=22c55e&style=for-the-badge" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=amixiid&theme=algolia&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+<!-- 🌐 SOCIALS -->
+<div align="center">
+
+<a href="https://twitter.com/">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://github.com/amixiid">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 
 
