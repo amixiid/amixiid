@@ -1,3 +1,4 @@
+<!-- 🔥 ASCII HEADER -->
 <pre align="center">
                        _        _  _      _ 
      /\               (_)      (_)(_)    | |
@@ -7,14 +8,14 @@
  /_/    \_\|_| |_| |_||_|/_/\_\|_||_| \__,_|
 </pre>
 
+---
 
-
+<!-- 👋 INTRO -->
 <div align="center">
 
-<h1 style="color:#22c55e;">Hi 👋, I'm Amixiid</h1>
+<h1 style="color:#22c55e;">Hi 👋, I'm amixiid</h1>
 
-<!-- 💚 Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;I+build+Mobile+Apps+📱;I+build+Web+Applications+🌐;I+create+APIs+⚙️;Always+learning+new+tech+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+Mobile+Apps+📱;Building+Web+Applications+🌐;Creating+APIs+⚙️;Clean+Code+%2B+Great+UI+💚;Always+Learning+🚀" />
 
 </div>
 
@@ -28,18 +29,13 @@
 🚀 I build **modern mobile applications** using Flutter  
 🌐 I develop **scalable web applications** using React & Node.js  
 ⚙️ I create **REST APIs & backend systems** with Express & MongoDB  
-📱 Passionate about clean UI, performance, and user experience  
+💡 Focused on **performance, clean code, and great UI/UX**
 
 </div>
-
-</div>
-
-
-
 
 ---
 
-<!-- 👀 PROFILE VIEWS + TROPHIES -->
+<!-- 👀 STATS -->
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=amixiid&label=Profile%20Views&color=22c55e&style=for-the-badge" />
@@ -54,82 +50,35 @@
 <div align="center">
 
 <a href="https://twitter.com/">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=twitter&logoColor=1DA1F2"/>
 </a>
 
 <a href="https://github.com/amixiid">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
-
-
-
-
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-
-### 🗄️ Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-</div>
-
-
-
-
-
-
-<!-- 🌐 CONNECT WITH ME -->
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-
-<a href="https://instagram.com/amixiid" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/amixiid">
+  <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
-<a href="https://facebook.com/amixiid" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="https://facebook.com/amixiid">
+  <img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=1877F2"/>
 </a>
 
-<a href="https://youtube.com/@amixiid" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://youtube.com/@amixiid">
+  <img src="https://img.shields.io/badge/YouTube-111827?style=for-the-badge&logo=youtube&logoColor=FF0000"/>
 </a>
 
 </div>
 
 ---
 
-<!-- 🛠️ LANGUAGES & TOOLS -->
-<h2 align="center">🛠️ Languages & Tools</h2>
+<!-- 🛠️ TECH STACK -->
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,flutter,cpp,cs,mysql,ps,ai" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,flutter,cpp,cs,mysql,ps&theme=dark" />
 
 </div>
 
@@ -148,7 +97,7 @@
 
 ---
 
-<!-- 🐍 CONTRIBUTION SNAKE -->
+<!-- 🐍 SNAKE -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
@@ -156,7 +105,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
 </div>
