@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<h1 style="color:#22c55e;">Hi 👋, I'm Mohamed</h1>
+<h1 style="color:#22c55e;">Hi 👋, I'm Amixiid</h1>
 
 <!-- 💚 Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;I+build+Mobile+Apps+📱;I+build+Web+Applications+🌐;I+create+APIs+⚙️;Always+learning+new+tech+🚀" />
