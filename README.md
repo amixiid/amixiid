@@ -47,13 +47,13 @@
 ---
 
 <!-- 📊 STATS -->
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=amixiid&show_icons=true&theme=tokyonight&hide_border=true&title_color=22c55e&icon_color=22c55e" height="160"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amixiid&layout=compact&theme=tokyonight&hide_border=true&title_color=22c55e" height="160"/>
 
-</div>
+</div> -->
 
 ---
 
