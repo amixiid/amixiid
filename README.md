@@ -9,8 +9,6 @@ Today, I run **[Aragsoft](https://www.aragsoft.com)**, where I design and build 
 
 I also built **[security-checker-workflow](https://github.com/amixiid/security-checker-workflow)**, an open-source security automation workflow for GitHub Actions.
 
-Twitter/X: [@Amixiid1](https://x.com/Amixiid1) · Instagram: [@amixiid](https://instagram.com/amixiid) · YouTube: [@amixiid](https://youtube.com/@amixiid)
-
 ```bash
 $ cat amixiid.info
 > portfolio   → amixiid.site
@@ -18,3 +16,5 @@ $ cat amixiid.info
 > skills      → React Native · React · Node.js · Docker · CI/CD · Security
 > work        → security-checker-workflow · Aragsoft
 ```
+
+X: [@Amixiid1](https://x.com/Amixiid1) · LinkedIn: [in/amixiid](https://www.linkedin.com/in/amixiid) · YouTube: [@arag-soft](https://youtube.com/@arag-soft)
